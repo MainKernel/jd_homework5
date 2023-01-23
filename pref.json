@@ -1,0 +1,4 @@
+{
+  "DBConnectionURL": "jdbc:h2:./database",
+  "DBInit" : "sql/init_db.sql"
+}
